@@ -3,5 +3,6 @@ This repo summarizes the project "Implementation of TIFF image compression algor
 # Mentor: 
 Prof. Nanditha Rao, Professor-International Institute of Information Technology, Bangalore.
 # Key Contributors: <br/>
-1. Priyanka Agarwal, Colleague-International Institute of Information Technology, Bangalore.
-2. Chandan Kumar N S, Colleague-International Institute of Information Technology, Bangalore.
+1. Priyanka Agarwal, International Institute of Information Technology, Bangalore.
+2. Arun M, International Institute of Information Technology, Bangalore.
+3. Chandan Kumar N S, International Institute of Information Technology, Bangalore.
